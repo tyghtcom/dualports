@@ -24,10 +24,10 @@ GET /    - Public endpoint response
 
 ### Internal Server (:8081)
 ```
-POST   /create     - Create operations
-GET    /read/      - Read operations
-PUT    /update/    - Update operations
-DELETE /delete/    - Delete operations
+POST   /create
+GET    /read
+PUT    /update
+DELETE /delete
 ```
 
 ## Features
