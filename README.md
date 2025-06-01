@@ -40,6 +40,6 @@ DELETE /delete
 ## Requirements
 - Go 1.24+
 - Webserver (good: nginx, better: angie) using a gateway to serve internal port 8081,
-or, point the public endpoint to resolve your domain, and add TLS support.
+or point the public endpoint to resolve your domain, and add TLS support of course.
 - Create your desired handlers for the endpoints. 
 - Your imagination.
